@@ -4,3 +4,4 @@ Provide a more general machine learning framework and apply it to the MNIST hand
 
 Reference book: [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
 
+Dataset:https://www.kaggle.com/datasets/abhishek/aaamlp
